@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/qr-code-challenge/static/css/main.d7bcf5d3.css",
+    "main.js": "/qr-code-challenge/static/js/main.e63fd121.js",
+    "index.html": "/qr-code-challenge/index.html",
+    "main.d7bcf5d3.css.map": "/qr-code-challenge/static/css/main.d7bcf5d3.css.map",
+    "main.e63fd121.js.map": "/qr-code-challenge/static/js/main.e63fd121.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7bcf5d3.css",
+    "static/js/main.e63fd121.js"
+  ]
+}
